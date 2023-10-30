@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+/* font */
+*{
+  font-family: 'Signika Negative', sans-serif !important;
+}
+
+
+.card{
+  border-radius: 19.102px !important;
+  background: #FFF !important;
+  border-color: #FFF !important;
+  box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1) !important;
+}
